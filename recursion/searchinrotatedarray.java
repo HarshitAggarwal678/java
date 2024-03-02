@@ -33,6 +33,6 @@ public class searchinrotatedarray
     public static void main(String args[])
     {
         int a[]={4,5,6,7,0,1,2};
-        System.out.println(search(a,2,0,a.length-1));
+        System.out.println(search(a,3,0,a.length-1));
     }
 }
