@@ -173,7 +173,8 @@ public class palindrome
     {
         palindrome l= new palindrome();
         l.addfirst(1);
-        l.addfirst(1);
+        l.addfirst(2);
+        l.addfirst(2);
         l.addfirst(1);
         if (l.Palindrome(head)){
             System.out.println("Yes");
